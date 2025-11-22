@@ -630,4 +630,199 @@ export default [
         },
         selfMute: false,
     },
+        {
+        channelId: "1436423627557048330",
+        serverId: "1238571049528856597",
+        token: process.env.token44,
+        selfDeaf: false,
+        autoReconnect: {
+            enabled: true,
+            delay: 5, // ثواني
+            maxRetries: 5,
+        },
+        presence: {
+            status: "dnd",
+        },
+        selfMute: false,
+    },
+        {
+        channelId: "1436423627557048330",
+        serverId: "1238571049528856597",
+        token: process.env.token45,
+        selfDeaf: false,
+        autoReconnect: {
+            enabled: true,
+            delay: 5, // ثواني
+            maxRetries: 5,
+        },
+        presence: {
+            status: "dnd",
+        },
+        selfMute: false,
+    },
+        {
+        channelId: "1436423627557048330",
+        serverId: "1238571049528856597",
+        token: process.env.token46,
+        selfDeaf: false,
+        autoReconnect: {
+            enabled: true,
+            delay: 5, // ثواني
+            maxRetries: 5,
+        },
+        presence: {
+            status: "dnd",
+        },
+        selfMute: false,
+    },
+        {
+        channelId: "1436423627557048330",
+        serverId: "1238571049528856597",
+        token: process.env.token47,
+        selfDeaf: false,
+        autoReconnect: {
+            enabled: true,
+            delay: 5, // ثواني
+            maxRetries: 5,
+        },
+        presence: {
+            status: "dnd",
+        },
+        selfMute: false,
+    },
+        {
+        channelId: "1436423627557048330",
+        serverId: "1238571049528856597",
+        token: process.env.token48,
+        selfDeaf: false,
+        autoReconnect: {
+            enabled: true,
+            delay: 5, // ثواني
+            maxRetries: 5,
+        },
+        presence: {
+            status: "dnd",
+        },
+        selfMute: false,
+    },
+        {
+        channelId: "1436423627557048330",
+        serverId: "1238571049528856597",
+        token: process.env.token49,
+        selfDeaf: false,
+        autoReconnect: {
+            enabled: true,
+            delay: 5, // ثواني
+            maxRetries: 5,
+        },
+        presence: {
+            status: "dnd",
+        },
+        selfMute: false,
+    },
+        {
+        channelId: "1436423627557048330",
+        serverId: "1238571049528856597",
+        token: process.env.token50,
+        selfDeaf: false,
+        autoReconnect: {
+            enabled: true,
+            delay: 5, // ثواني
+            maxRetries: 5,
+        },
+        presence: {
+            status: "dnd",
+        },
+        selfMute: false,
+    },
+        {
+        channelId: "1436423627557048330",
+        serverId: "1238571049528856597",
+        token: process.env.token51,
+        selfDeaf: false,
+        autoReconnect: {
+            enabled: true,
+            delay: 5, // ثواني
+            maxRetries: 5,
+        },
+        presence: {
+            status: "dnd",
+        },
+        selfMute: false,
+    },
+        {
+        channelId: "1436423627557048330",
+        serverId: "1238571049528856597",
+        token: process.env.token52,
+        selfDeaf: false,
+        autoReconnect: {
+            enabled: true,
+            delay: 5, // ثواني
+            maxRetries: 5,
+        },
+        presence: {
+            status: "dnd",
+        },
+        selfMute: false,
+    },
+        {
+        channelId: "1436423627557048330",
+        serverId: "1238571049528856597",
+        token: process.env.token53,
+        selfDeaf: false,
+        autoReconnect: {
+            enabled: true,
+            delay: 5, // ثواني
+            maxRetries: 5,
+        },
+        presence: {
+            status: "dnd",
+        },
+        selfMute: false,
+    },
+        {
+        channelId: "1436423627557048330",
+        serverId: "1238571049528856597",
+        token: process.env.token54,
+        selfDeaf: false,
+        autoReconnect: {
+            enabled: true,
+            delay: 5, // ثواني
+            maxRetries: 5,
+        },
+        presence: {
+            status: "dnd",
+        },
+        selfMute: false,
+    },
+        {
+        channelId: "1436423627557048330",
+        serverId: "1238571049528856597",
+        token: process.env.token55,
+        selfDeaf: false,
+        autoReconnect: {
+            enabled: true,
+            delay: 5, // ثواني
+            maxRetries: 5,
+        },
+        presence: {
+            status: "dnd",
+        },
+        selfMute: false,
+    },
+        {
+        channelId: "1436423627557048330",
+        serverId: "1238571049528856597",
+        token: process.env.token56,
+        selfDeaf: false,
+        autoReconnect: {
+            enabled: true,
+            delay: 5, // ثواني
+            maxRetries: 5,
+        },
+        presence: {
+            status: "dnd",
+        },
+        selfMute: false,
+    },
 ];
