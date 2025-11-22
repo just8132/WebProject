@@ -11,9 +11,9 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "idle",
+            status: "dnd",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1436423627557048330",
@@ -26,7 +26,7 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "idle",
+            status: "dnd",
         },
         selfMute: true,
     },
@@ -41,9 +41,9 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "idle",
+            status: "dnd",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1436423627557048330",
@@ -56,7 +56,7 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "idle",
+            status: "dnd",
         },
         selfMute: true,
     },
@@ -71,9 +71,9 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "idle",
+            status: "dnd",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1436423627557048330",
@@ -86,7 +86,7 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "idle",
+            status: "dnd",
         },
         selfMute: true,
     },
@@ -101,9 +101,9 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "idle",
+            status: "dnd",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1436423627557048330",
@@ -116,9 +116,9 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "idle",
+            status: "dnd",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1436423627557048330",
@@ -131,9 +131,9 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "idle",
+            status: "dnd",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1436423627557048330",
@@ -146,9 +146,9 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "idle",
+            status: "dnd",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1436423627557048330",
@@ -163,7 +163,7 @@ export default [
         presence: {
             status: "idle",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1436423627557048330",
@@ -176,9 +176,9 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "idle",
+            status: "dnd",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1436423627557048330",
@@ -191,9 +191,9 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "idle",
+            status: "dnd",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1436423627557048330",
@@ -206,9 +206,9 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "idle",
+            status: "online",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1436423627557048330",
@@ -221,9 +221,9 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "idle",
+            status: "dnd",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1436423627557048330",
@@ -236,9 +236,9 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "idle",
+            status: "dnd",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1436423627557048330",
@@ -251,9 +251,9 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "idle",
+            status: "dnd",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1436423627557048330",
@@ -266,9 +266,9 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "idle",
+            status: "online",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1436423627557048330",
@@ -283,7 +283,7 @@ export default [
         presence: {
             status: "idle",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1436423627557048330",
@@ -296,9 +296,9 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "idle",
+            status: "online",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1436423627557048330",
@@ -311,9 +311,9 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "idle",
+            status: "online",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1436423627557048330",
@@ -326,9 +326,9 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "idle",
+            status: "online",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1436423627557048330",
@@ -341,9 +341,9 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "idle",
+            status: "online",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1436423627557048330",
@@ -356,9 +356,9 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "idle",
+            status: "online",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1436423627557048330",
@@ -371,9 +371,9 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "idle",
+            status: "online",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1436423627557048330",
@@ -386,9 +386,9 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "idle",
+            status: "online",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1436423627557048330",
@@ -401,9 +401,9 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "idle",
+            status: "online",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1436423627557048330",
@@ -416,9 +416,9 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "idle",
+            status: "online",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1436423627557048330",
@@ -433,7 +433,7 @@ export default [
         presence: {
             status: "idle",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1436423627557048330",
@@ -446,9 +446,9 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "idle",
+            status: "online",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1436423627557048330",
@@ -463,7 +463,7 @@ export default [
         presence: {
             status: "idle",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1436423627557048330",
@@ -476,7 +476,7 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "idle",
+            status: "online",
         },
         selfMute: true,
     },
@@ -491,7 +491,7 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "idle",
+            status: "online",
         },
         selfMute: true,
     },
@@ -506,7 +506,7 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "idle",
+            status: "online",
         },
         selfMute: true,
     },
@@ -521,7 +521,7 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "idle",
+            status: "online",
         },
         selfMute: true,
     },
@@ -536,7 +536,7 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "idle",
+            status: "online",
         },
         selfMute: true,
     },
@@ -551,7 +551,7 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "idle",
+            status: "online",
         },
         selfMute: true,
     },
@@ -566,7 +566,7 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "idle",
+            status: "online",
         },
         selfMute: true,
     },
@@ -581,7 +581,7 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "idle",
+            status: "online",
         },
         selfMute: true,
     },
@@ -611,7 +611,7 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "idle",
+            status: "online",
         },
         selfMute: true,
     },
