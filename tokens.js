@@ -7,13 +7,13 @@ export default [
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
         presence: {
             status: "idle",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1436423627557048330",
@@ -22,13 +22,13 @@ export default [
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
         presence: {
             status: "idle",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1436423627557048330",
@@ -37,13 +37,13 @@ export default [
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
         presence: {
             status: "idle",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1436423627557048330",
@@ -52,13 +52,13 @@ export default [
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
         presence: {
             status: "idle",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1436423627557048330",
@@ -67,13 +67,13 @@ export default [
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
         presence: {
             status: "idle",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1436423627557048330",
@@ -82,13 +82,13 @@ export default [
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
         presence: {
             status: "idle",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1436423627557048330",
@@ -97,13 +97,13 @@ export default [
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
         presence: {
             status: "idle",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1436423627557048330",
@@ -112,13 +112,13 @@ export default [
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
         presence: {
             status: "idle",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1436423627557048330",
@@ -127,13 +127,13 @@ export default [
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
         presence: {
             status: "idle",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1436423627557048330",
@@ -142,13 +142,13 @@ export default [
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
         presence: {
             status: "idle",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1436423627557048330",
@@ -157,13 +157,13 @@ export default [
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
         presence: {
             status: "idle",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1436423627557048330",
@@ -172,13 +172,13 @@ export default [
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
         presence: {
             status: "idle",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1436423627557048330",
@@ -187,13 +187,13 @@ export default [
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
         presence: {
             status: "idle",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1436423627557048330",
@@ -202,13 +202,13 @@ export default [
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
         presence: {
             status: "idle",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1436423627557048330",
@@ -217,13 +217,13 @@ export default [
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
         presence: {
             status: "idle",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1436423627557048330",
@@ -232,13 +232,13 @@ export default [
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
         presence: {
             status: "idle",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1436423627557048330",
@@ -247,13 +247,13 @@ export default [
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
         presence: {
             status: "idle",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1436423627557048330",
@@ -262,13 +262,13 @@ export default [
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
         presence: {
             status: "idle",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1436423627557048330",
@@ -277,13 +277,13 @@ export default [
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
         presence: {
             status: "idle",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1436423627557048330",
@@ -292,13 +292,13 @@ export default [
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
         presence: {
             status: "idle",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1436423627557048330",
@@ -307,13 +307,13 @@ export default [
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
         presence: {
             status: "idle",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1436423627557048330",
@@ -322,15 +322,14 @@ export default [
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
         presence: {
             status: "idle",
         },
-        selfMute: false,
+        selfMute: true,
     },
-
         {
         channelId: "1436423627557048330",
         serverId: "1238571049528856597",
@@ -338,13 +337,13 @@ export default [
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
         presence: {
             status: "idle",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1436423627557048330",
@@ -353,13 +352,13 @@ export default [
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
         presence: {
             status: "idle",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1436423627557048330",
@@ -368,13 +367,13 @@ export default [
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
         presence: {
             status: "idle",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1436423627557048330",
@@ -383,13 +382,13 @@ export default [
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
         presence: {
             status: "idle",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1436423627557048330",
@@ -398,13 +397,13 @@ export default [
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
         presence: {
             status: "idle",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1436423627557048330",
@@ -413,13 +412,13 @@ export default [
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
         presence: {
             status: "idle",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1436423627557048330",
@@ -428,13 +427,13 @@ export default [
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
         presence: {
             status: "idle",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1436423627557048330",
@@ -443,13 +442,13 @@ export default [
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
         presence: {
             status: "idle",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1436423627557048330",
@@ -458,13 +457,13 @@ export default [
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
         presence: {
             status: "idle",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1436423627557048330",
@@ -473,28 +472,13 @@ export default [
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
         presence: {
             status: "idle",
         },
-        selfMute: false,
-    },
-        {
-        channelId: "1436423627557048330",
-        serverId: "1238571049528856597",
-        token: process.env.token33,
-        selfDeaf: false,
-        autoReconnect: {
-            enabled: true,
-            delay: 1, // ثواني
-            maxRetries: 5,
-        },
-        presence: {
-            status: "idle",
-        },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1436423627557048330",
@@ -503,13 +487,13 @@ export default [
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
         presence: {
             status: "idle",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1436423627557048330",
@@ -518,13 +502,13 @@ export default [
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
         presence: {
             status: "idle",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1436423627557048330",
@@ -533,13 +517,13 @@ export default [
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
         presence: {
             status: "idle",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1436423627557048330",
@@ -548,13 +532,13 @@ export default [
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
         presence: {
             status: "idle",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1436423627557048330",
@@ -563,58 +547,87 @@ export default [
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
-                {
+        presence: {
+            status: "idle",
+        },
+        selfMute: true,
+    },
+        {
         channelId: "1436423627557048330",
         serverId: "1238571049528856597",
         token: process.env.token39,
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
-                {
+        presence: {
+            status: "idle",
+        },
+        selfMute: true,
+    },
+        {
         channelId: "1436423627557048330",
         serverId: "1238571049528856597",
         token: process.env.token40,
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
-                {
+        presence: {
+            status: "idle",
+        },
+        selfMute: true,
+    },
+        {
         channelId: "1436423627557048330",
         serverId: "1238571049528856597",
         token: process.env.token41,
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
-                {
+        presence: {
+            status: "idle",
+        },
+        selfMute: true,
+    },
+        {
         channelId: "1436423627557048330",
         serverId: "1238571049528856597",
         token: process.env.token42,
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
+            delay: 5, // ثواني
             maxRetries: 5,
         },
-                {
+        presence: {
+            status: "idle",
+        },
+        selfMute: true,
+    },
+        {
         channelId: "1436423627557048330",
         serverId: "1238571049528856597",
         token: process.env.token43,
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
-            delay: 1, // ثواني
-         maxRetries: 5,
+            delay: 5, // ثواني
+            maxRetries: 5,
         },
-           {
+        presence: {
+            status: "idle",
+        },
+        selfMute: true,
+    },
 ];
