@@ -478,7 +478,7 @@ export default [
         presence: {
             status: "online",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1436423627557048330",
@@ -493,7 +493,7 @@ export default [
         presence: {
             status: "online",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1436423627557048330",
@@ -508,7 +508,7 @@ export default [
         presence: {
             status: "online",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1436423627557048330",
@@ -523,7 +523,7 @@ export default [
         presence: {
             status: "online",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1436423627557048330",
@@ -538,7 +538,7 @@ export default [
         presence: {
             status: "online",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1436423627557048330",
@@ -553,7 +553,7 @@ export default [
         presence: {
             status: "online",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1436423627557048330",
@@ -568,7 +568,7 @@ export default [
         presence: {
             status: "online",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1436423627557048330",
@@ -583,7 +583,7 @@ export default [
         presence: {
             status: "online",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1436423627557048330",
@@ -598,7 +598,7 @@ export default [
         presence: {
             status: "idle",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1436423627557048330",
@@ -613,7 +613,7 @@ export default [
         presence: {
             status: "online",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1436423627557048330",
@@ -628,6 +628,6 @@ export default [
         presence: {
             status: "idle",
         },
-        selfMute: true,
+        selfMute: false,
     },
 ];
