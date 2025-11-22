@@ -614,6 +614,7 @@ export default [
         autoReconnect: {
             enabled: true,
             delay: 1, // ثواني
-            maxRetries: 5,
-        }
+         maxRetries: 5,
+        },
+           {
 ];
